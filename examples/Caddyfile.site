@@ -1,0 +1,5 @@
+example.org {
+	root * /var/www/example
+	file_server
+	encode gzip
+}

@@ -1,0 +1,8 @@
+# Basic auth in front of a plain response.
+# User: paul   Password: demo-password (change both!)
+:8083 {
+	basic_auth {
+		paul $2a$14$lZu.ZRABw2tHgNuizoelO.NIPLFd8wkCJ74OhFOPX3eznxOyYBj9K
+	}
+	respond "welcome to the secret area" 200
+}

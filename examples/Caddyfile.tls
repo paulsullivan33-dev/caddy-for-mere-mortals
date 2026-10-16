@@ -1,0 +1,5 @@
+# HTTPS on localhost with Caddy's internal CA
+localhost:8443 {
+	tls internal
+	respond "hello over TLS" 200
+}

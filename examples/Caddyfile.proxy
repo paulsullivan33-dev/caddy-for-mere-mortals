@@ -1,0 +1,4 @@
+# Reverse proxy: everything on :8081 goes to the app on :8080
+:8081 {
+	reverse_proxy 127.0.0.1:8080
+}

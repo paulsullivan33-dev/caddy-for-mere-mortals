@@ -1,0 +1,6 @@
+# Static site + a health-check response
+:8082 {
+	root * /srv/www
+	respond /health "all good" 200
+	file_server
+}

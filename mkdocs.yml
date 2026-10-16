@@ -1,0 +1,23 @@
+site_name: Caddy for Mere Mortals
+site_description: Plain-language Caddy — automatic HTTPS, reverse proxying your apps, static sites, the Caddyfile, and running it all without drama.
+site_url: https://paulsullivan33-dev.github.io/caddy-for-mere-mortals/
+
+# Guides live at the repo root (nice for GitHub browsing).
+# The deploy workflow copies them into docs/ before building.
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - What Caddy Is: what-caddy-is.md
+  - The Caddyfile: the-caddyfile.md
+  - Serving a Static Site: serving-static-sites.md
+  - Reverse Proxying: reverse-proxying.md
+  - Automatic HTTPS: automatic-https.md
+  - Patterns: patterns.md
+  - Authentication and Access: authentication-and-access.md
+  - Running Caddy: running-caddy.md
+  - Logs: logs.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
+  - Writing Criteria: criteria.md
