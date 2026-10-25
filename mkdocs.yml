@@ -1,6 +1,7 @@
 site_name: Caddy for Mere Mortals
 site_description: Plain-language Caddy — automatic HTTPS, reverse proxying your apps, static sites, the Caddyfile, and running it all without drama.
 site_url: https://paulsullivan33-dev.github.io/caddy-for-mere-mortals/
+copyright: 'Part of <a href="https://paulsullivan33-dev.github.io/mere-mortals/">For Mere Mortals</a> · Text <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>, code MIT'
 
 # Guides live at the repo root (nice for GitHub browsing).
 # The deploy workflow copies them into docs/ before building.

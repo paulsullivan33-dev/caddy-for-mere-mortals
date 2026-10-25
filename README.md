@@ -61,3 +61,19 @@ that needs *your* public domain and DNS — a real Let's
 Encrypt certificate — is marked **(documented)**: the
 mechanism is explained from Caddy's documentation and
 the parts verifiable locally were verified.
+
+---
+
+## Part of the series
+
+This guide is one of the [For Mere Mortals](https://paulsullivan33-dev.github.io/mere-mortals/) guides: plain-language guides to the tools programmers and makers use.
+
+Related guides:
+
+- [nginx for Mere Mortals](https://paulsullivan33-dev.github.io/nginx-for-mere-mortals/)
+- [Traefik for Mere Mortals](https://paulsullivan33-dev.github.io/traefik-for-mere-mortals/)
+- [Docker Compose for Mere Mortals](https://paulsullivan33-dev.github.io/docker-compose-for-mere-mortals/)
+
+## License
+
+The writing in this guide is licensed under [CC BY 4.0](https://github.com/paulsullivan33-dev/caddy-for-mere-mortals/blob/main/LICENSE). Code examples and lab scripts are licensed under the [MIT License](https://github.com/paulsullivan33-dev/caddy-for-mere-mortals/blob/main/LICENSE-CODE).
